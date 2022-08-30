@@ -1,0 +1,9 @@
+open gridlist folder in cmd prompt and run 
+
+npm install 
+
+npm start
+
+in browser run 
+
+http://localhost:4200
